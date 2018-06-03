@@ -4,4 +4,4 @@ github/markdown musings
 
 lets include an image
 
-![console](http://github.com/dgoldhar/markdown-musings/aqua-console.png)
+![console](https://github.com/dgoldhar/markdown-musings/blob/master/aqua-console.png)
