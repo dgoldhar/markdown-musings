@@ -10,8 +10,10 @@ The image is stored in github, and referenced by the md file. Note, if the md fi
 2. click on the image,then save the URL for it.
 3. use this URL to reference the image (from github) in your file.
 
-![console](https://github.com/dgoldhar/markdown-musings/blob/master/aqua-console.png)
+![console](aqua-console.png)
 
 B. branch the code.
 
 this is the main branch.
+
+C. 
